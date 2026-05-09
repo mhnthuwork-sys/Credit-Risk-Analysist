@@ -73,3 +73,6 @@ Lenders constantly walk the tightrope between growth and risk. This project tack
 A complete **data-to-decision pipeline** for credit risk:
 
 It combines hands-on technical execution (Excel, SQL, Power BI) with the strategic lens that turns numbers into lending policy — the kind of thinking that drives real value in financial institutions.
+
+## 📌 Power Bi dashboard
+
