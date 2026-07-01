@@ -1,8 +1,6 @@
 -- ===========================================================
 -- CREDIT RISK ANALYSIS PROJECT
--- Author: Bhavana Venkatesha Murthy
 -- Dataset: Credit Risk (Kaggle)
--- Purpose: SQL Analysis for 10 Business Questions
 -- ===========================================================
 
 -- 1. Total loans and overall default rate
