@@ -40,14 +40,21 @@ Lenders constantly walk the tightrope between growth and risk. This project tack
 
 ---
 
-## 📊 Key Findings & Recommendations
+## 📊 Key Insights
 
-- Segmented the borrower base into **3 distinct risk tiers**, each with a quantified default probability
-- Pinpointed **income-to-loan ratio** as the leading early indicator of potential default
-- Proposed a **monthly portfolio health dashboard** to surface risk shifts before they compound
-- Recommended **AI-driven alert triggers** to flag high-risk accounts for faster credit intervention
+- **Overall default rate: 21.82%** (7,108 of 32,581 loans)
+- Default rate rises sharply with loan grade — from **9.96% at Grade A** to **98.44% at Grade G**, with the steepest jump occurring between **Grade C (20.73%)** and **Grade D (59.05%)**
+- Renters show significantly higher default risk (**31.57%**) than homeowners with mortgages (12.57%) or full ownership (7.47%)
+- Combined risk segments compound sharply: renters with Grade F loans default at **77.95%**, nearly 4x the portfolio average
+- Borrowers who defaulted had lower average income (**$49,126** vs $70,804) and a higher loan-to-income ratio (**24.7%** vs 14.9%)
+- Interest rate spread between defaulted and non-defaulted loans (13.06% vs 10.44%) is modest relative to the risk gap across grades, suggesting current pricing may under-differentiate risk at lower grades
 
-**Business Impact:** Stronger early-warning systems → 28% reduction in projected default exposure → clearer visibility for management reporting.
+## 💡 Recommendations
+
+1. Tighten underwriting criteria for combined high-risk segments (e.g., RENT + Grade D–G)
+2. Reassess risk-based pricing to better reflect the steep default-rate gap between mid and low grades
+3. Prioritize loan-to-income ratio as an early screening signal alongside grade
+4. Monitor portfolio mix by grade and home ownership monthly to track risk concentration
 
 ---
 
