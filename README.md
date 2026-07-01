@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project dives into credit risk patterns to help financial institutions reduce loan defaults and make smarter lending decisions. Leveraging **Excel**, **Power BI**, and **SQL**, borrower data was processed, explored, and visualized to segment customers by risk level — ultimately informing credit approval strategies that contributed to a projected **~28% reduction in default exposure**.
+This project dives into credit risk patterns to help financial institutions reduce loan defaults and make smarter lending decisions. Leveraging **Excel**, **Power BI**, and **SQL**, borrower data was processed, explored, and visualized to segment customers by risk level — ultimately informing credit approval strategies that contributed to a projected 
 
 ---
 
